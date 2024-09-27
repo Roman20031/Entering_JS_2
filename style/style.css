@@ -1,5 +1,14 @@
+#keys{
+    
+}
 button{
     width: 111px;
     height: 111px;
     border-radius: 66px;
+    border: none;
+    background-color:   darkgray;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
 }
